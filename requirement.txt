@@ -1,0 +1,6 @@
+pennylane
+streamlit
+numpy
+torch
+Pillow
+scikit-learn
